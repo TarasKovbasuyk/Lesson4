@@ -1,0 +1,16 @@
+{
+    "name": "taras/parking",
+    "authors": [
+        {
+            "name": "TarasKovbasyuk",
+            "email": "taraskovbasuyk@ukr.net"
+        }
+    ],
+    "description":"parking",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "parkingClass\\": "parkingClass/"
+        }
+    }
+}
